@@ -1,0 +1,3516 @@
+{
+    "payload": {
+        "locations": [
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb3975156700663c8359",
+                "node_name": "Mithra",
+                "url_name": "mithra",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 45,
+                "min_level": 40
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb3975156700663c835a",
+                "node_name": "Paimon",
+                "url_name": "paimon",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 23,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb3a75156700663c835b",
+                "node_name": "Metis",
+                "url_name": "metis",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 17,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb3a75156700663c835c",
+                "node_name": "Cambion Drift",
+                "url_name": "cambion_drift",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 30,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb3a75156700663c835d",
+                "node_name": "Pavlov",
+                "url_name": "pavlov",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb3a75156700663c835e",
+                "node_name": "Apollodorus",
+                "url_name": "apollodorus",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 11,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb3b75156700663c835f",
+                "node_name": "Taveuni",
+                "url_name": "taveuni",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 37,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb3b75156700663c8360",
+                "node_name": "Kepler",
+                "url_name": "kepler",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 14,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb3b75156700663c8361",
+                "node_name": "Caelus",
+                "url_name": "caelus",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb3c75156700663c8362",
+                "node_name": "Callisto",
+                "url_name": "callisto",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb3c75156700663c8363",
+                "node_name": "Martialis",
+                "url_name": "martialis",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 12,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/zariman.092efa88f59e399d90399fcb9169bce0.png",
+                "id": "62d2eb3c75156700663c8364",
+                "node_name": "Oro Works",
+                "url_name": "oro_works",
+                "system_name": "Zariman",
+                "thumb": "locations/images/thumbs/zariman.092efa88f59e399d90399fcb9169bce0.128x128.png",
+                "max_level": 55,
+                "min_level": 50
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb3d75156700663c8365",
+                "node_name": "Gulliver",
+                "url_name": "gulliver",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 15,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb3d75156700663c8366",
+                "node_name": "Erpo",
+                "url_name": "erpo",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 6,
+                "min_level": 1
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb3d75156700663c8367",
+                "node_name": "Plains of Eidolon",
+                "url_name": "plains_of_eidolon",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 30,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb3d75156700663c8368",
+                "node_name": "Stöfler",
+                "url_name": "stöfler",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb3e75156700663c8369",
+                "node_name": "Sechura",
+                "url_name": "sechura",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb3e75156700663c836a",
+                "node_name": "Augustus",
+                "url_name": "augustus",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 14,
+                "min_level": 9
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb3e75156700663c836b",
+                "node_name": "Hieracon",
+                "url_name": "hieracon",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb3e75156700663c836c",
+                "node_name": "Merrow",
+                "url_name": "merrow",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 40,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb3f75156700663c836d",
+                "node_name": "Ani",
+                "url_name": "ani",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 25,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb3f75156700663c836e",
+                "node_name": "Telesto",
+                "url_name": "telesto",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 24,
+                "min_level": 22
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb3f75156700663c836f",
+                "node_name": "Sycorax",
+                "url_name": "sycorax",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 26,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb3f75156700663c8370",
+                "node_name": "Stephano",
+                "url_name": "stephano",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb4075156700663c8371",
+                "node_name": "Ludi",
+                "url_name": "ludi",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 17,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb4075156700663c8372",
+                "node_name": "Tiwaz",
+                "url_name": "tiwaz",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 25,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb4075156700663c8373",
+                "node_name": "Pacific",
+                "url_name": "pacific",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 6,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/zariman.092efa88f59e399d90399fcb9169bce0.png",
+                "id": "62d2eb4075156700663c8374",
+                "node_name": "Everview Arc",
+                "url_name": "everview_arc",
+                "system_name": "Zariman",
+                "thumb": "locations/images/thumbs/zariman.092efa88f59e399d90399fcb9169bce0.128x128.png",
+                "max_level": 55,
+                "min_level": 50
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb4175156700663c8375",
+                "node_name": "Caloris",
+                "url_name": "caloris",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 8,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb4175156700663c8376",
+                "node_name": "Nereid",
+                "url_name": "nereid",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 32,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb4175156700663c8377",
+                "node_name": "Naeglar",
+                "url_name": "naeglar",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 34,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4175156700663c8378",
+                "node_name": "Ganymede",
+                "url_name": "ganymede",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 35,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb4275156700663c8379",
+                "node_name": "Koro",
+                "url_name": "koro",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 31,
+                "min_level": 29
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb4275156700663c837a",
+                "node_name": "Montes",
+                "url_name": "montes",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb4275156700663c837b",
+                "node_name": "Yursa",
+                "url_name": "yursa",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb4275156700663c837c",
+                "node_name": "Phlegyas",
+                "url_name": "phlegyas",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 15,
+                "min_level": 13
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb4275156700663c837d",
+                "node_name": "R-9 Cloud",
+                "url_name": "r_9_cloud",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb4375156700663c837e",
+                "node_name": "Orias",
+                "url_name": "orias",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 22,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb4375156700663c837f",
+                "node_name": "Charybdis",
+                "url_name": "charybdis",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb4375156700663c8380",
+                "node_name": "Roche",
+                "url_name": "roche",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 12,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb4375156700663c8381",
+                "node_name": "Pandora",
+                "url_name": "pandora",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 23,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb4375156700663c8382",
+                "node_name": "Zeipel",
+                "url_name": "zeipel",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4475156700663c8383",
+                "node_name": "Adrastea",
+                "url_name": "adrastea",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb4475156700663c8384",
+                "node_name": "Elion",
+                "url_name": "elion",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 9,
+                "min_level": 7
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4475156700663c8385",
+                "node_name": "Cameria",
+                "url_name": "cameria",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 30,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb4575156700663c8386",
+                "node_name": "Sao",
+                "url_name": "sao",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 31,
+                "min_level": 29
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb4575156700663c8387",
+                "node_name": "Hades",
+                "url_name": "hades",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4575156700663c8388",
+                "node_name": "Sinai",
+                "url_name": "sinai",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 30,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4575156700663c8389",
+                "node_name": "Themisto",
+                "url_name": "themisto",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb4675156700663c838a",
+                "node_name": "Stickney",
+                "url_name": "stickney",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 15,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb4675156700663c838b",
+                "node_name": "Ariel",
+                "url_name": "ariel",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 27,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb4675156700663c838c",
+                "node_name": "Aten",
+                "url_name": "aten",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 45,
+                "min_level": 40
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4675156700663c838d",
+                "node_name": "Carme",
+                "url_name": "carme",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 18,
+                "min_level": 16
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb4775156700663c838e",
+                "node_name": "Lares",
+                "url_name": "lares",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 11,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb4775156700663c838f",
+                "node_name": "Exequias",
+                "url_name": "exequias",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 35,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb4775156700663c8390",
+                "node_name": "Marduk",
+                "url_name": "marduk",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 45,
+                "min_level": 40
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb4775156700663c8391",
+                "node_name": "M Prime",
+                "url_name": "m_prime",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 9,
+                "min_level": 7
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb4775156700663c8392",
+                "node_name": "Tamu",
+                "url_name": "tamu",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 40,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb4875156700663c8393",
+                "node_name": "Valefor",
+                "url_name": "valefor",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 23,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb4875156700663c8394",
+                "node_name": "Arval",
+                "url_name": "arval",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 11,
+                "min_level": 9
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb4875156700663c8395",
+                "node_name": "Desdemona",
+                "url_name": "desdemona",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 28,
+                "min_level": 26
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb4975156700663c8396",
+                "node_name": "Puck",
+                "url_name": "puck",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb4975156700663c8397",
+                "node_name": "Tolstoj",
+                "url_name": "tolstoj",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 10,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb4975156700663c8398",
+                "node_name": "Proteus",
+                "url_name": "proteus",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 32,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb4975156700663c8399",
+                "node_name": "Kala-azar",
+                "url_name": "kala_azar",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb4a75156700663c839a",
+                "node_name": "Taranis",
+                "url_name": "taranis",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 15,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb4a75156700663c839b",
+                "node_name": "Nsu Grid",
+                "url_name": "nsu_grid",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb4a75156700663c839c",
+                "node_name": "Coba",
+                "url_name": "coba",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 16,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb4a75156700663c839d",
+                "node_name": "Dakata",
+                "url_name": "dakata",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 30,
+                "min_level": 28
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb4a75156700663c839e",
+                "node_name": "Pago",
+                "url_name": "pago",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 33,
+                "min_level": 31
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb4b75156700663c839f",
+                "node_name": "Ophelia",
+                "url_name": "ophelia",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb4b75156700663c83a0",
+                "node_name": "Kelashin",
+                "url_name": "kelashin",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb4b75156700663c83a1",
+                "node_name": "Umbriel",
+                "url_name": "umbriel",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb4b75156700663c83a2",
+                "node_name": "Oestrus",
+                "url_name": "oestrus",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb4c75156700663c83a3",
+                "node_name": "The Ropalolyst",
+                "url_name": "the_ropalolyst",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 40,
+                "min_level": 40
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb4c75156700663c83a4",
+                "node_name": "Vallis",
+                "url_name": "vallis",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 13,
+                "min_level": 11
+            },
+            {
+                "icon": "locations/images/zariman.092efa88f59e399d90399fcb9169bce0.png",
+                "id": "62d2eb4c75156700663c83a5",
+                "node_name": "Halako Perimeter",
+                "url_name": "halako_perimeter",
+                "system_name": "Zariman",
+                "thumb": "locations/images/thumbs/zariman.092efa88f59e399d90399fcb9169bce0.128x128.png",
+                "max_level": 55,
+                "min_level": 50
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb4c75156700663c83a6",
+                "node_name": "Draco",
+                "url_name": "draco",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 17,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb4d75156700663c83a7",
+                "node_name": "Isos",
+                "url_name": "isos",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 36,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb4d75156700663c83a8",
+                "node_name": "Hydron",
+                "url_name": "hydron",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb4d75156700663c83a9",
+                "node_name": "Malva",
+                "url_name": "malva",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 18,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb4d75156700663c83aa",
+                "node_name": "Palus",
+                "url_name": "palus",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb4e75156700663c83ab",
+                "node_name": "Mantle",
+                "url_name": "mantle",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 4,
+                "min_level": 2
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb4e75156700663c83ac",
+                "node_name": "Ares",
+                "url_name": "ares",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 11,
+                "min_level": 9
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb4e75156700663c83ad",
+                "node_name": "Gaia",
+                "url_name": "gaia",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 6,
+                "min_level": 1
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb4e75156700663c83ae",
+                "node_name": "Yam",
+                "url_name": "yam",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 60,
+                "min_level": 60
+            },
+            {
+                "icon": "locations/images/zariman.092efa88f59e399d90399fcb9169bce0.png",
+                "id": "62d2eb4f75156700663c83af",
+                "node_name": "The Greenway",
+                "url_name": "the_greenway",
+                "system_name": "Zariman",
+                "thumb": "locations/images/thumbs/zariman.092efa88f59e399d90399fcb9169bce0.128x128.png",
+                "max_level": 55,
+                "min_level": 50
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb4f75156700663c83b0",
+                "node_name": "Tethys",
+                "url_name": "tethys",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 26,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb4f75156700663c83b1",
+                "node_name": "Helene",
+                "url_name": "helene",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 26,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb4f75156700663c83b2",
+                "node_name": "Odin",
+                "url_name": "odin",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 11,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb5075156700663c83b3",
+                "node_name": "Thebe",
+                "url_name": "thebe",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5075156700663c83b4",
+                "node_name": "Amarna",
+                "url_name": "amarna",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb5075156700663c83b5",
+                "node_name": "Numa",
+                "url_name": "numa",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 24,
+                "min_level": 22
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb5075156700663c83b6",
+                "node_name": "Larzac",
+                "url_name": "larzac",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 33,
+                "min_level": 23
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb5075156700663c83b7",
+                "node_name": "Keeler",
+                "url_name": "keeler",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 25,
+                "min_level": 23
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb5175156700663c83b8",
+                "node_name": "Formido",
+                "url_name": "formido",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 16,
+                "min_level": 14
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb5175156700663c83b9",
+                "node_name": "Ose",
+                "url_name": "ose",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 23,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb5175156700663c83ba",
+                "node_name": "Erato",
+                "url_name": "erato",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb5175156700663c83bb",
+                "node_name": "Valac",
+                "url_name": "valac",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 20,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5175156700663c83bc",
+                "node_name": "Fossa",
+                "url_name": "fossa",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb5275156700663c83bd",
+                "node_name": "Ananke",
+                "url_name": "ananke",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 18,
+                "min_level": 16
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb5275156700663c83be",
+                "node_name": "Carpo",
+                "url_name": "carpo",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 19,
+                "min_level": 17
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb5275156700663c83bf",
+                "node_name": "Triton",
+                "url_name": "triton",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 30,
+                "min_level": 28
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5375156700663c83c0",
+                "node_name": "Berehynia",
+                "url_name": "berehynia",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb5375156700663c83c1",
+                "node_name": "Narcissus",
+                "url_name": "narcissus",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 36,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb5375156700663c83c2",
+                "node_name": "Cinxia",
+                "url_name": "cinxia",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 17,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb5375156700663c83c3",
+                "node_name": "Terrorem",
+                "url_name": "terrorem",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 35,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb5475156700663c83c4",
+                "node_name": "War",
+                "url_name": "war",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 13,
+                "min_level": 11
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb5475156700663c83c5",
+                "node_name": "Kadesh",
+                "url_name": "kadesh",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 20,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb5475156700663c83c6",
+                "node_name": "Despina",
+                "url_name": "despina",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 32,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb5475156700663c83c7",
+                "node_name": "Tycho",
+                "url_name": "tycho",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb5475156700663c83c8",
+                "node_name": "Psamathe",
+                "url_name": "psamathe",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 32,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb5575156700663c83c9",
+                "node_name": "Garus",
+                "url_name": "garus",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 33,
+                "min_level": 31
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb5575156700663c83ca",
+                "node_name": "Larissa",
+                "url_name": "larissa",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 31,
+                "min_level": 29
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb5575156700663c83cb",
+                "node_name": "Rhea",
+                "url_name": "rhea",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 26,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb5575156700663c83cc",
+                "node_name": "Hepit",
+                "url_name": "hepit",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 15,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb5675156700663c83cd",
+                "node_name": "Assur",
+                "url_name": "assur",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 35,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb5675156700663c83ce",
+                "node_name": "Horend",
+                "url_name": "horend",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 14,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb5675156700663c83cf",
+                "node_name": "Plato",
+                "url_name": "plato",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb5675156700663c83d0",
+                "node_name": "Ur",
+                "url_name": "ur",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 35,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5775156700663c83d1",
+                "node_name": "Tessera",
+                "url_name": "tessera",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb5775156700663c83d2",
+                "node_name": "Iliad",
+                "url_name": "iliad",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 15,
+                "min_level": 13
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb5775156700663c83d3",
+                "node_name": "Enceladus",
+                "url_name": "enceladus",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 25,
+                "min_level": 23
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb5775156700663c83d4",
+                "node_name": "Cypress",
+                "url_name": "cypress",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb5875156700663c83d5",
+                "node_name": "Naamah",
+                "url_name": "naamah",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 23,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb5875156700663c83d6",
+                "node_name": "Abaddon",
+                "url_name": "abaddon",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 23,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb5875156700663c83d7",
+                "node_name": "Shklovsky",
+                "url_name": "shklovsky",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 13,
+                "min_level": 11
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5875156700663c83d8",
+                "node_name": "Naga",
+                "url_name": "naga",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 34,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb5975156700663c83d9",
+                "node_name": "Regna",
+                "url_name": "regna",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb5975156700663c83da",
+                "node_name": "Memphis",
+                "url_name": "memphis",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 25,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb5975156700663c83db",
+                "node_name": "E Prime",
+                "url_name": "e_prime",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 3,
+                "min_level": 1
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb5975156700663c83dc",
+                "node_name": "Rosalind",
+                "url_name": "rosalind",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5a75156700663c83dd",
+                "node_name": "Ishtar",
+                "url_name": "ishtar",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5a75156700663c83de",
+                "node_name": "Cytherean",
+                "url_name": "cytherean",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5a75156700663c83df",
+                "node_name": "Rusalka",
+                "url_name": "rusalka",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 36,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb5b75156700663c83e0",
+                "node_name": "Cambria",
+                "url_name": "cambria",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 4,
+                "min_level": 2
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb5b75156700663c83e1",
+                "node_name": "Dirus",
+                "url_name": "dirus",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 17,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb5b75156700663c83e2",
+                "node_name": "Apollo",
+                "url_name": "apollo",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 40,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb5b75156700663c83e3",
+                "node_name": "Amalthea",
+                "url_name": "amalthea",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 19,
+                "min_level": 17
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5b75156700663c83e4",
+                "node_name": "Romula",
+                "url_name": "romula",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 18,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb5c75156700663c83e5",
+                "node_name": "Piscinas",
+                "url_name": "piscinas",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 36,
+                "min_level": 26
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5c75156700663c83e6",
+                "node_name": "Orb Vallis",
+                "url_name": "orb_vallis",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 30,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5c75156700663c83e7",
+                "node_name": "Nakki",
+                "url_name": "nakki",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 40,
+                "min_level": 40
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5c75156700663c83e8",
+                "node_name": "Marid",
+                "url_name": "marid",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb5c75156700663c83e9",
+                "node_name": "Galatea",
+                "url_name": "galatea",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 29,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5d75156700663c83ea",
+                "node_name": "Selkie",
+                "url_name": "selkie",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb5d75156700663c83eb",
+                "node_name": "Nimus",
+                "url_name": "nimus",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb5d75156700663c83ec",
+                "node_name": "Gradivus",
+                "url_name": "gradivus",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 11,
+                "min_level": 9
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb5d75156700663c83ed",
+                "node_name": "Monolith",
+                "url_name": "monolith",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 15,
+                "min_level": 13
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb5e75156700663c83ee",
+                "node_name": "Sorath",
+                "url_name": "sorath",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 21,
+                "min_level": 19
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb5e75156700663c83ef",
+                "node_name": "Unda",
+                "url_name": "unda",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 6,
+                "min_level": 4
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb5e75156700663c83f0",
+                "node_name": "H-2 Cloud",
+                "url_name": "h_2_cloud",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb5e75156700663c83f1",
+                "node_name": "Ukko",
+                "url_name": "ukko",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 35,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb5f75156700663c83f2",
+                "node_name": "Outer Terminus",
+                "url_name": "outer_terminus",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb5f75156700663c83f3",
+                "node_name": "Kelpie",
+                "url_name": "kelpie",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 40,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb5f75156700663c83f4",
+                "node_name": "Stribog",
+                "url_name": "stribog",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 25,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb5f75156700663c83f5",
+                "node_name": "Caracol",
+                "url_name": "caracol",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 36,
+                "min_level": 26
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb5f75156700663c83f6",
+                "node_name": "Solium",
+                "url_name": "solium",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb6075156700663c83f7",
+                "node_name": "Elara",
+                "url_name": "elara",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb6075156700663c83f8",
+                "node_name": "Kappa",
+                "url_name": "kappa",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb6075156700663c83f9",
+                "node_name": "Ker",
+                "url_name": "ker",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 16,
+                "min_level": 14
+            },
+            {
+                "icon": "locations/images/zariman.092efa88f59e399d90399fcb9169bce0.png",
+                "id": "62d2eb6075156700663c83fa",
+                "node_name": "Tuvul Commons",
+                "url_name": "tuvul_commons",
+                "system_name": "Zariman",
+                "thumb": "locations/images/thumbs/zariman.092efa88f59e399d90399fcb9169bce0.128x128.png",
+                "max_level": 55,
+                "min_level": 50
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb6075156700663c83fb",
+                "node_name": "Numina",
+                "url_name": "numina",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6175156700663c83fc",
+                "node_name": "Lith",
+                "url_name": "lith",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 6,
+                "min_level": 1
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6175156700663c83fd",
+                "node_name": "Mariana",
+                "url_name": "mariana",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 3,
+                "min_level": 1
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb6175156700663c83fe",
+                "node_name": "Vodyanoi",
+                "url_name": "vodyanoi",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 85,
+                "min_level": 85
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb6275156700663c83ff",
+                "node_name": "Tharsis",
+                "url_name": "tharsis",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 10,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb6275156700663c8400",
+                "node_name": "Wahiba",
+                "url_name": "wahiba",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 20,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb6275156700663c8401",
+                "node_name": "Titan",
+                "url_name": "titan",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 26,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb6275156700663c8402",
+                "node_name": "Ara",
+                "url_name": "ara",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 12,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb6275156700663c8403",
+                "node_name": "Nuovo",
+                "url_name": "nuovo",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 15,
+                "min_level": 13
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb6375156700663c8404",
+                "node_name": "Morax",
+                "url_name": "morax",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 20,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb6375156700663c8405",
+                "node_name": "Xini",
+                "url_name": "xini",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb6375156700663c8406",
+                "node_name": "Acheron",
+                "url_name": "acheron",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb6375156700663c8407",
+                "node_name": "Grimaldi",
+                "url_name": "grimaldi",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6475156700663c8408",
+                "node_name": "Oro",
+                "url_name": "oro",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 25,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6475156700663c8409",
+                "node_name": "Cervantes",
+                "url_name": "cervantes",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 6,
+                "min_level": 4
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb6475156700663c840a",
+                "node_name": "Skyresh",
+                "url_name": "skyresh",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 14,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb6575156700663c840b",
+                "node_name": "Boethius",
+                "url_name": "boethius",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 10,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb6575156700663c840c",
+                "node_name": "Alator",
+                "url_name": "alator",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 13,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb6575156700663c840d",
+                "node_name": "Hyf",
+                "url_name": "hyf",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 20,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb6575156700663c840e",
+                "node_name": "Ultor",
+                "url_name": "ultor",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 13,
+                "min_level": 11
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb6575156700663c840f",
+                "node_name": "Galilea",
+                "url_name": "galilea",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb6675156700663c8410",
+                "node_name": "Laomedeia",
+                "url_name": "laomedeia",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb6675156700663c8411",
+                "node_name": "Armaros",
+                "url_name": "armaros",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 20,
+                "min_level": 18
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb6675156700663c8412",
+                "node_name": "Suisei",
+                "url_name": "suisei",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 10,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6775156700663c8413",
+                "node_name": "Everest",
+                "url_name": "everest",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 6,
+                "min_level": 1
+            },
+            {
+                "icon": "locations/images/deimos.ee362b00bd1f15c0d62b85d6547b0c30.png",
+                "id": "62d2eb6775156700663c8414",
+                "node_name": "Magnacidium",
+                "url_name": "magnacidium",
+                "system_name": "Deimos",
+                "thumb": "locations/images/thumbs/deimos.ee362b00bd1f15c0d62b85d6547b0c30.128x128.png",
+                "max_level": 25,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb6775156700663c8415",
+                "node_name": "Adaro",
+                "url_name": "adaro",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 36,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb6775156700663c8416",
+                "node_name": "Cerberus",
+                "url_name": "cerberus",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 40,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb6875156700663c8417",
+                "node_name": "Terminus",
+                "url_name": "terminus",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 10,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb6875156700663c8418",
+                "node_name": "Cholistan",
+                "url_name": "cholistan",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 33,
+                "min_level": 23
+            },
+            {
+                "icon": "locations/images/lua.2950e989359a62ff9f82527edefdc895.png",
+                "id": "62d2eb6875156700663c8419",
+                "node_name": "Copernicus",
+                "url_name": "copernicus",
+                "system_name": "Lua",
+                "thumb": "locations/images/thumbs/lua.2950e989359a62ff9f82527edefdc895.128x128.png",
+                "max_level": 30,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb6875156700663c841a",
+                "node_name": "Hydra",
+                "url_name": "hydra",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 34,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb6975156700663c841b",
+                "node_name": "Exta",
+                "url_name": "exta",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 16,
+                "min_level": 14
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb6975156700663c841c",
+                "node_name": "SABMIR CLOUD",
+                "url_name": "sabmir_cloud",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb6975156700663c841d",
+                "node_name": "E Gate",
+                "url_name": "e_gate",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 5,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb6975156700663c841e",
+                "node_name": "Lex",
+                "url_name": "lex",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 16,
+                "min_level": 14
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb6975156700663c841f",
+                "node_name": "Casta",
+                "url_name": "casta",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 17,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb6a75156700663c8420",
+                "node_name": "Rotuma",
+                "url_name": "rotuma",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 32,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb6a75156700663c8421",
+                "node_name": "V Prime",
+                "url_name": "v_prime",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6a75156700663c8422",
+                "node_name": "Eurasia",
+                "url_name": "eurasia",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 5,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb6a75156700663c8423",
+                "node_name": "Olympus",
+                "url_name": "olympus",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 20,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb6b75156700663c8424",
+                "node_name": "Aphrodite",
+                "url_name": "aphrodite",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb6b75156700663c8425",
+                "node_name": "Teshub",
+                "url_name": "teshub",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 15,
+                "min_level": 10
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb6b75156700663c8426",
+                "node_name": "Belenus",
+                "url_name": "belenus",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 35,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb6b75156700663c8427",
+                "node_name": "Sharpless",
+                "url_name": "sharpless",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 13,
+                "min_level": 11
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb6c75156700663c8428",
+                "node_name": "Caliban",
+                "url_name": "caliban",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 27,
+                "min_level": 25
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb6c75156700663c8429",
+                "node_name": "Brugia",
+                "url_name": "brugia",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 36,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.png",
+                "id": "62d2eb6c75156700663c842a",
+                "node_name": "Sangeru",
+                "url_name": "sangeru",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.8c77b332a2c4e0d07a03c66cc2b1290e.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb6c75156700663c842b",
+                "node_name": "Saxis",
+                "url_name": "saxis",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 38,
+                "min_level": 34
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb6d75156700663c842c",
+                "node_name": "Calabash",
+                "url_name": "calabash",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb6d75156700663c842d",
+                "node_name": "Dione",
+                "url_name": "dione",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 23,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb6d75156700663c842e",
+                "node_name": "Akkad",
+                "url_name": "akkad",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb6d75156700663c842f",
+                "node_name": "Linea",
+                "url_name": "linea",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 7,
+                "min_level": 5
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb6d75156700663c8430",
+                "node_name": "Neso",
+                "url_name": "neso",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 31,
+                "min_level": 29
+            },
+            {
+                "icon": "locations/images/eris.852be24fc6be11c48d8387dbcbc29ab0.png",
+                "id": "62d2eb6e75156700663c8431",
+                "node_name": "Zabala",
+                "url_name": "zabala",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.852be24fc6be11c48d8387dbcbc29ab0.128x128.png",
+                "max_level": 45,
+                "min_level": 35
+            },
+            {
+                "icon": "locations/images/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.png",
+                "id": "62d2eb6e75156700663c8432",
+                "node_name": "Nabuk",
+                "url_name": "nabuk",
+                "system_name": "Kuva Fortress",
+                "thumb": "locations/images/thumbs/kuva_fortress.71c6995e78069aa1fc63ad40263065c3.128x128.png",
+                "max_level": 32,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb6e75156700663c8433",
+                "node_name": "Lu-yan",
+                "url_name": "lu_yan",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb6e75156700663c8434",
+                "node_name": "Cassini",
+                "url_name": "cassini",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 23,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb6e75156700663c8435",
+                "node_name": "Thon",
+                "url_name": "thon",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 17,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb6e75156700663c8436",
+                "node_name": "Flexa",
+                "url_name": "flexa",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb6f75156700663c8437",
+                "node_name": "Mot",
+                "url_name": "mot",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 45,
+                "min_level": 40
+            },
+            {
+                "icon": "locations/images/veil.9f77e846653b45a852918b20d2d32e03.png",
+                "id": "62d2eb6f75156700663c8438",
+                "node_name": "Arc Silver",
+                "url_name": "arc_silver",
+                "system_name": "Veil",
+                "thumb": "locations/images/thumbs/veil.9f77e846653b45a852918b20d2d32e03.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/void.8704d0ff850b2435afcb1c2ebc242188.png",
+                "id": "62d2eb6f75156700663c8439",
+                "node_name": "Oxomoco",
+                "url_name": "oxomoco",
+                "system_name": "Void",
+                "thumb": "locations/images/thumbs/void.8704d0ff850b2435afcb1c2ebc242188.128x128.png",
+                "max_level": 35,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/earth.d8f57553e5e9f5aa193463ded490159c.png",
+                "id": "62d2eb6f75156700663c843a",
+                "node_name": "Tikal",
+                "url_name": "tikal",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.d8f57553e5e9f5aa193463ded490159c.128x128.png",
+                "max_level": 16,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb7075156700663c843b",
+                "node_name": "Titania",
+                "url_name": "titania",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/uranus.fe9767706b17740e867b703ae3cfd89d.png",
+                "id": "62d2eb7075156700663c843c",
+                "node_name": "Cressida",
+                "url_name": "cressida",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.fe9767706b17740e867b703ae3cfd89d.128x128.png",
+                "max_level": 29,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/neptune.9a1714643cc377be91e87862454e34bf.png",
+                "id": "62d2eb7075156700663c843d",
+                "node_name": "Salacia",
+                "url_name": "salacia",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.9a1714643cc377be91e87862454e34bf.128x128.png",
+                "max_level": 32,
+                "min_level": 27
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb7075156700663c843e",
+                "node_name": "Seimeni",
+                "url_name": "seimeni",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 25,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/phobos.d04228f826fc4860a8d17540a9244dbc.png",
+                "id": "62d2eb7175156700663c843f",
+                "node_name": "Zeugma",
+                "url_name": "zeugma",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.d04228f826fc4860a8d17540a9244dbc.128x128.png",
+                "max_level": 25,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb7175156700663c8440",
+                "node_name": "Baal",
+                "url_name": "baal",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 23,
+                "min_level": 21
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb7175156700663c8441",
+                "node_name": "Oceanum",
+                "url_name": "oceanum",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 36,
+                "min_level": 32
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb7175156700663c8442",
+                "node_name": "Syrtis",
+                "url_name": "syrtis",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 13,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/jupiter.1be73824b2873e1a8c1a7006aa555d15.png",
+                "id": "62d2eb7275156700663c8443",
+                "node_name": "Io",
+                "url_name": "io",
+                "system_name": "Jupiter",
+                "thumb": "locations/images/thumbs/jupiter.1be73824b2873e1a8c1a7006aa555d15.128x128.png",
+                "max_level": 20,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb7275156700663c8444",
+                "node_name": "Gabii",
+                "url_name": "gabii",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 25,
+                "min_level": 15
+            },
+            {
+                "icon": "locations/images/pluto.59b657435d72516e29e57b7900cd3b19.png",
+                "id": "62d2eb7275156700663c8445",
+                "node_name": "Minthe",
+                "url_name": "minthe",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.59b657435d72516e29e57b7900cd3b19.128x128.png",
+                "max_level": 34,
+                "min_level": 30
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb7375156700663c8446",
+                "node_name": "Hellas",
+                "url_name": "hellas",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 10,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb7375156700663c8447",
+                "node_name": "Venera",
+                "url_name": "venera",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 7,
+                "min_level": 5
+            },
+            {
+                "icon": "locations/images/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.png",
+                "id": "62d2eb7375156700663c8448",
+                "node_name": "Pantheon",
+                "url_name": "pantheon",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.753d39e11cf2cf6d5b1ffe5727e132ca.128x128.png",
+                "max_level": 8,
+                "min_level": 6
+            },
+            {
+                "icon": "locations/images/venus.3d3da95c321bff1421432e0c7430a65b.png",
+                "id": "62d2eb7375156700663c8449",
+                "node_name": "Kiliken",
+                "url_name": "kiliken",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.3d3da95c321bff1421432e0c7430a65b.128x128.png",
+                "max_level": 8,
+                "min_level": 3
+            },
+            {
+                "icon": "locations/images/europa.0cd2b497c0c7755e60460955613521e3.png",
+                "id": "62d2eb7475156700663c844a",
+                "node_name": "Kokabiel",
+                "url_name": "kokabiel",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.0cd2b497c0c7755e60460955613521e3.128x128.png",
+                "max_level": 22,
+                "min_level": 20
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb7475156700663c844b",
+                "node_name": "Calypso",
+                "url_name": "calypso",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 26,
+                "min_level": 24
+            },
+            {
+                "icon": "locations/images/mars.314b4b1dd7efd923b28d0413915e1b4e.png",
+                "id": "62d2eb7475156700663c844c",
+                "node_name": "Spear",
+                "url_name": "spear",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.314b4b1dd7efd923b28d0413915e1b4e.128x128.png",
+                "max_level": 13,
+                "min_level": 8
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb7475156700663c844d",
+                "node_name": "Pallas",
+                "url_name": "pallas",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 14,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/saturn.483c5d0ea8c11e58cb80cae151bcffdf.png",
+                "id": "62d2eb7575156700663c844e",
+                "node_name": "Anthe",
+                "url_name": "anthe",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.483c5d0ea8c11e58cb80cae151bcffdf.128x128.png",
+                "max_level": 24,
+                "min_level": 22
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb7575156700663c844f",
+                "node_name": "Bode",
+                "url_name": "bode",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 14,
+                "min_level": 12
+            },
+            {
+                "icon": "locations/images/ceres.83a89d616813a7815cf1ee30ac9b01b8.png",
+                "id": "62d2eb7575156700663c8450",
+                "node_name": "Kiste",
+                "url_name": "kiste",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.83a89d616813a7815cf1ee30ac9b01b8.128x128.png",
+                "max_level": 15,
+                "min_level": 13
+            },
+            {
+                "icon": "locations/images/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.png",
+                "id": "62d2f0fa751567007abb19ac",
+                "node_name": "Hapke",
+                "url_name": "hapke",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f0fa751567007abb19ad",
+                "node_name": "Beleth",
+                "url_name": "beleth",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f0fa751567007abb19ae",
+                "node_name": "Trinculo",
+                "url_name": "trinculo",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f0fb751567007abb19af",
+                "node_name": "Wendell",
+                "url_name": "wendell",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f0fb751567007abb19b0",
+                "node_name": "Miranda",
+                "url_name": "miranda",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f0fb751567007abb19b1",
+                "node_name": "Tikoloshe",
+                "url_name": "tikoloshe",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f0fb751567007abb19b2",
+                "node_name": "Profit Margin",
+                "url_name": "profit_margin",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f0fb751567007abb19b3",
+                "node_name": "Cyath",
+                "url_name": "cyath",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0fb751567007abb19b4",
+                "node_name": "The Index: Endurance",
+                "url_name": "the_index_endurance",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f0fb751567007abb19b5",
+                "node_name": "Grildrig",
+                "url_name": "grildrig",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.png",
+                "id": "62d2f0fb751567007abb19b6",
+                "node_name": "Egeria",
+                "url_name": "egeria",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fc751567007abb19b7",
+                "node_name": "(Variant) Annihilation",
+                "url_name": "(variant)_annihilation",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f0fc751567007abb19b8",
+                "node_name": "Gnathos",
+                "url_name": "gnathos",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f0fc751567007abb19b9",
+                "node_name": "Lepis",
+                "url_name": "lepis",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0fc751567007abb19ba",
+                "node_name": "The Index: Endurance (High Risk)",
+                "url_name": "the_index_endurance_(high_risk)",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0fc751567007abb19bb",
+                "node_name": "Arva Vector",
+                "url_name": "arva_vector",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fc751567007abb19bc",
+                "node_name": "Team Annihilation",
+                "url_name": "team_annihilation",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f0fc751567007abb19bd",
+                "node_name": "Vesper",
+                "url_name": "vesper",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f0fc751567007abb19be",
+                "node_name": "Flimnap",
+                "url_name": "flimnap",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.608f116848b865847123226a9a7babdf.png",
+                "id": "62d2f0fc751567007abb19bf",
+                "node_name": "Bendar Cluster",
+                "url_name": "bendar_cluster",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.608f116848b865847123226a9a7babdf.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/mercury.209b17d59d9840ea0e3df7b175da1224.png",
+                "id": "62d2f0fc751567007abb19c0",
+                "node_name": "Caduceus",
+                "url_name": "caduceus",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.209b17d59d9840ea0e3df7b175da1224.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f0fd751567007abb19c1",
+                "node_name": "Mab",
+                "url_name": "mab",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f0fd751567007abb19c2",
+                "node_name": "Cosis",
+                "url_name": "cosis",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fd751567007abb19c3",
+                "node_name": "(Variant) Cephalon Capture",
+                "url_name": "(variant)_cephalon_capture",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f0fd751567007abb19c4",
+                "node_name": "Setebos",
+                "url_name": "setebos",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fd751567007abb19c5",
+                "node_name": "Cephalon Capture",
+                "url_name": "cephalon_capture",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.608f116848b865847123226a9a7babdf.png",
+                "id": "62d2f0fd751567007abb19c6",
+                "node_name": "Iota Temple",
+                "url_name": "iota_temple",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.608f116848b865847123226a9a7babdf.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f0fd751567007abb19c7",
+                "node_name": "Khufu Envoy",
+                "url_name": "khufu_envoy",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fd751567007abb19c8",
+                "node_name": "Mordo Cluster",
+                "url_name": "mordo_cluster",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f0fd751567007abb19c9",
+                "node_name": "Ranova",
+                "url_name": "ranova",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f0fe751567007abb19ca",
+                "node_name": "Phithale",
+                "url_name": "phithale",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fe751567007abb19cb",
+                "node_name": "Lupal Pass",
+                "url_name": "lupal_pass",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0fe751567007abb19cc",
+                "node_name": "Mammon'S Prospect",
+                "url_name": "mammons_prospect",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f0fe751567007abb19cd",
+                "node_name": "Iapetus",
+                "url_name": "iapetus",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f0fe751567007abb19ce",
+                "node_name": "Prospero",
+                "url_name": "prospero",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f0fe751567007abb19cf",
+                "node_name": "Portia",
+                "url_name": "portia",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f0fe751567007abb19d0",
+                "node_name": "Candiru",
+                "url_name": "candiru",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/mars.6680ac7f125a58ddacba6eaf53f5e251.png",
+                "id": "62d2f0fe751567007abb19d1",
+                "node_name": "Quirinus",
+                "url_name": "quirinus",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.6680ac7f125a58ddacba6eaf53f5e251.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0fe751567007abb19d2",
+                "node_name": "Thalassa",
+                "url_name": "thalassa",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0fe751567007abb19d3",
+                "node_name": "The Index: Endurance (Medium Risk)",
+                "url_name": "the_index_endurance_(medium_risk)",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f0ff751567007abb19d4",
+                "node_name": "Obol Crossing",
+                "url_name": "obol_crossing",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/zariman.87f182b9d2946d994f8a14ecd1d69c82.png",
+                "id": "62d2f0ff751567007abb19d5",
+                "node_name": "Zariman",
+                "url_name": "zariman",
+                "system_name": "Zariman",
+                "thumb": "locations/images/thumbs/zariman.87f182b9d2946d994f8a14ecd1d69c82.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.608f116848b865847123226a9a7babdf.png",
+                "id": "62d2f0ff751567007abb19d6",
+                "node_name": "Korm'S Belt",
+                "url_name": "korms_belt",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.608f116848b865847123226a9a7babdf.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f0ff751567007abb19d7",
+                "node_name": "Peregrine Axis",
+                "url_name": "peregrine_axis",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f0ff751567007abb19d8",
+                "node_name": "Todd",
+                "url_name": "todd",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0ff751567007abb19d9",
+                "node_name": "Brom Cluster",
+                "url_name": "brom_cluster",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/unknown.png",
+                "id": "62d2f0ff751567007abb19da",
+                "node_name": "Elite Sanctuary Onslaught",
+                "url_name": "elite_sanctuary_onslaught",
+                "system_name": "Sanctuary",
+                "thumb": "locations/unknown.thumb.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0ff751567007abb19db",
+                "node_name": "Halimede",
+                "url_name": "halimede",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f0ff751567007abb19dc",
+                "node_name": "Enkidu Ice Drifts",
+                "url_name": "enkidu_ice_drifts",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f100751567007abb19dd",
+                "node_name": "Mimas",
+                "url_name": "mimas",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f100751567007abb19de",
+                "node_name": "Vesper Strait",
+                "url_name": "vesper_strait",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f100751567007abb19df",
+                "node_name": "Limtoc",
+                "url_name": "limtoc",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/mars.6680ac7f125a58ddacba6eaf53f5e251.png",
+                "id": "62d2f100751567007abb19e0",
+                "node_name": "Arcadia",
+                "url_name": "arcadia",
+                "system_name": "Mars",
+                "thumb": "locations/images/thumbs/mars.6680ac7f125a58ddacba6eaf53f5e251.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f100751567007abb19e1",
+                "node_name": "Hymeno",
+                "url_name": "hymeno",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f100751567007abb19e2",
+                "node_name": "Sporid",
+                "url_name": "sporid",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f100751567007abb19e3",
+                "node_name": "Nodo Gap",
+                "url_name": "nodo_gap",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f100751567007abb19e4",
+                "node_name": "Corb",
+                "url_name": "corb",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f100751567007abb19e5",
+                "node_name": "Beacon Shield Ring",
+                "url_name": "beacon_shield_ring",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f101751567007abb19e6",
+                "node_name": "Charon",
+                "url_name": "charon",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f101751567007abb19e7",
+                "node_name": "Yemaja",
+                "url_name": "yemaja",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f101751567007abb19e8",
+                "node_name": "Shax",
+                "url_name": "shax",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f101751567007abb19e9",
+                "node_name": "Aegaeon",
+                "url_name": "aegaeon",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f101751567007abb19ea",
+                "node_name": "Vand Cluster",
+                "url_name": "vand_cluster",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f101751567007abb19eb",
+                "node_name": "Sparga",
+                "url_name": "sparga",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f101751567007abb19ec",
+                "node_name": "Nu-Gua Mines",
+                "url_name": "nu_gua_mines",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f101751567007abb19ed",
+                "node_name": "Sovereign Grasp",
+                "url_name": "sovereign_grasp",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f101751567007abb19ee",
+                "node_name": "Phoebe",
+                "url_name": "phoebe",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f101751567007abb19ef",
+                "node_name": "Gamygyn",
+                "url_name": "gamygyn",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f102751567007abb19f0",
+                "node_name": "Fenton'S Field",
+                "url_name": "fentons_field",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f102751567007abb19f1",
+                "node_name": "(Variant) Team Annihilation",
+                "url_name": "(variant)_team_annihilation",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f102751567007abb19f2",
+                "node_name": "Scylla",
+                "url_name": "scylla",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f102751567007abb19f3",
+                "node_name": "Orvin-Haarc",
+                "url_name": "orvin_haarc",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.608f116848b865847123226a9a7babdf.png",
+                "id": "62d2f102751567007abb19f4",
+                "node_name": "Ogal Cluster",
+                "url_name": "ogal_cluster",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.608f116848b865847123226a9a7babdf.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f102751567007abb19f5",
+                "node_name": "Zagan",
+                "url_name": "zagan",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f102751567007abb19f6",
+                "node_name": "Jengu",
+                "url_name": "jengu",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f102751567007abb19f7",
+                "node_name": "Undine",
+                "url_name": "undine",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f102751567007abb19f8",
+                "node_name": "Cryotic Front",
+                "url_name": "cryotic_front",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f103751567007abb19f9",
+                "node_name": "Luckless Expanse",
+                "url_name": "luckless_expanse",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f103751567007abb19fa",
+                "node_name": "Veles",
+                "url_name": "veles",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f103751567007abb19fb",
+                "node_name": "Ixodes",
+                "url_name": "ixodes",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/earth.608f116848b865847123226a9a7babdf.png",
+                "id": "62d2f103751567007abb19fc",
+                "node_name": "Sover Strait",
+                "url_name": "sover_strait",
+                "system_name": "Earth",
+                "thumb": "locations/images/thumbs/earth.608f116848b865847123226a9a7babdf.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f103751567007abb19fd",
+                "node_name": "Pallene",
+                "url_name": "pallene",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f103751567007abb19fe",
+                "node_name": "Lunaro Arena",
+                "url_name": "lunaro_arena",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/sedna.521a6e5a16acd63157fb462581e68708.png",
+                "id": "62d2f103751567007abb19ff",
+                "node_name": "Camenae",
+                "url_name": "camenae",
+                "system_name": "Sedna",
+                "thumb": "locations/images/thumbs/sedna.521a6e5a16acd63157fb462581e68708.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f103751567007abb1a00",
+                "node_name": "Viver",
+                "url_name": "viver",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f103751567007abb1a01",
+                "node_name": "Annihilation",
+                "url_name": "annihilation",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f103751567007abb1a02",
+                "node_name": "Eligor",
+                "url_name": "eligor",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f104751567007abb1a03",
+                "node_name": "Bianca",
+                "url_name": "bianca",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f104751567007abb1a04",
+                "node_name": "Opik",
+                "url_name": "opik",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/mercury.209b17d59d9840ea0e3df7b175da1224.png",
+                "id": "62d2f104751567007abb1a05",
+                "node_name": "Neruda",
+                "url_name": "neruda",
+                "system_name": "Mercury",
+                "thumb": "locations/images/thumbs/mercury.209b17d59d9840ea0e3df7b175da1224.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/saturn.5b8c41408d9ef7cd3261531bfc26a648.png",
+                "id": "62d2f104751567007abb1a06",
+                "node_name": "Kasio'S Rest",
+                "url_name": "kasios_rest",
+                "system_name": "Saturn",
+                "thumb": "locations/images/thumbs/saturn.5b8c41408d9ef7cd3261531bfc26a648.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/unknown.png",
+                "id": "62d2f104751567007abb1a07",
+                "node_name": "Sanctuary Onslaught",
+                "url_name": "sanctuary_onslaught",
+                "system_name": "Sanctuary",
+                "thumb": "locations/unknown.thumb.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/neptune.7ca401e7010eb90e56fd030e94d1033f.png",
+                "id": "62d2f104751567007abb1a08",
+                "node_name": "The Index: Endurance (Low Risk)",
+                "url_name": "the_index_endurance_(low_risk)",
+                "system_name": "Neptune",
+                "thumb": "locations/images/thumbs/neptune.7ca401e7010eb90e56fd030e94d1033f.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/phobos.9c2b777c15f75fa960b2ab91348e0e43.png",
+                "id": "62d2f104751567007abb1a09",
+                "node_name": "Drunlo",
+                "url_name": "drunlo",
+                "system_name": "Phobos",
+                "thumb": "locations/images/thumbs/phobos.9c2b777c15f75fa960b2ab91348e0e43.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/europa.3c96640406faebd3978d5f6bfe83e1a2.png",
+                "id": "62d2f104751567007abb1a0a",
+                "node_name": "Lillith",
+                "url_name": "lillith",
+                "system_name": "Europa",
+                "thumb": "locations/images/thumbs/europa.3c96640406faebd3978d5f6bfe83e1a2.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f104751567007abb1a0b",
+                "node_name": "Psoro",
+                "url_name": "psoro",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/eris.1229499c3377f04e4b527f24b7b51ef6.png",
+                "id": "62d2f104751567007abb1a0c",
+                "node_name": "Phalan",
+                "url_name": "phalan",
+                "system_name": "Eris",
+                "thumb": "locations/images/thumbs/eris.1229499c3377f04e4b527f24b7b51ef6.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.png",
+                "id": "62d2f104751567007abb1a0d",
+                "node_name": "Varro",
+                "url_name": "varro",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.png",
+                "id": "62d2f105751567007abb1a0e",
+                "node_name": "Olla",
+                "url_name": "olla",
+                "system_name": "Ceres",
+                "thumb": "locations/images/thumbs/ceres.d5fe370fc9595cfc5aa7776edf02b1eb.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f105751567007abb1a0f",
+                "node_name": "Falling Glory",
+                "url_name": "falling_glory",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/uranus.1cce1f73611790f7a4f944681483d452.png",
+                "id": "62d2f105751567007abb1a10",
+                "node_name": "Cupid",
+                "url_name": "cupid",
+                "system_name": "Uranus",
+                "thumb": "locations/images/thumbs/uranus.1cce1f73611790f7a4f944681483d452.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.png",
+                "id": "62d2f105751567007abb1a11",
+                "node_name": "Seven Sirens",
+                "url_name": "seven_sirens",
+                "system_name": "Pluto",
+                "thumb": "locations/images/thumbs/pluto.f5a0e4e8db203a41f7db2aacc5ac3853.128x128.png",
+                "max_level": null,
+                "min_level": null
+            },
+            {
+                "icon": "locations/images/venus.fdba8acbd2e92834009d3ca7be516da8.png",
+                "id": "62d2f105751567007abb1a12",
+                "node_name": "Bifrost Echo",
+                "url_name": "bifrost_echo",
+                "system_name": "Venus",
+                "thumb": "locations/images/thumbs/venus.fdba8acbd2e92834009d3ca7be516da8.128x128.png",
+                "max_level": null,
+                "min_level": null
+            }
+        ]
+    }
+}
