@@ -1,2 +1,2 @@
 # wfmarkethelper
-Helper for Warframe Market. Connects to it's API and analyze data.
+Helper for Warframe Market. Connects to its API and analyze data.
