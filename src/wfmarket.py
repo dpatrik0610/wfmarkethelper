@@ -27,8 +27,9 @@ def getItemList():
     myRequest = getRequest(constructURL("items", "", "", {'accept' : 'application.json', 'Platform': 'pc'}, {}))
     if getStatusCode(myRequest) != 200:
         print(myRequest.status_code)
-    
-    itemList = list(jsonHandler.getDataFromRequest(myRequest.text).get("payload").get("items"))
+        exit(404)
+    else:
+        itemList = list(jsonHandler.getDataFromRequest(myRequest.text).get("payload").get("items"))
     return itemList
 
 # Returns the response from the basic request types.

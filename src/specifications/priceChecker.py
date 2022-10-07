@@ -1,22 +1,24 @@
 import wfmarket
+import itemHandler
+import offer
 # Gets item orders from market.
-def getItemPrice(itemName):
-    itemName = itemName.lower()
-    orders = wfmarket.getItemOrders(itemName).get('payload').get('orders')
 
-    lowSeller = lowestSeller(orders)
-    highBuyer = highestBuyer(orders)
-    print("Lowest price Seller:", lowSeller["user"]["ingame_name"], "(", str(lowSeller["user"]["id"]), "):", str(lowSeller["platinum"]), "platinum")
-    print("Highest price Buyer:", highBuyer["user"]["ingame_name"], "(", str(highBuyer["user"]["id"]), "):", str(highBuyer["platinum"]), "platinum")
+def getItemPrice(itemName):
+    itemName = itemHandler.formatName(itemName)
+    orders = wfmarket.getItemOrders(itemName).get('payload').get('orders')
+    seller = lowestSeller(orders, itemName)
+    buyer = highestBuyer(orders, itemName)
+
+    print("Lowest price Seller:", seller.username, "(", seller.userID, "):", seller.platinum, "platinum")
+    print("Highest price Buyer:", buyer.username, "(", buyer.userID, "):", buyer.platinum, "platinum")
     print("\n")
     print(itemName.replace("_", " ").title(), ":")
-    print("/w", lowSeller["user"]["ingame_name"], "Hi! I want to buy your \"" + itemName.replace("_", " ").title() + "\", for:", str(lowSeller["platinum"]), "platinum :)" )
-    print("/w", highBuyer["user"]["ingame_name"], "Hi! I want to sell \"" + itemName.replace("_", " ").title() + "\" to YOU, for:", str(highBuyer["platinum"]), "platinum :)" )
+    print("/w", seller.username, "Hi! I want to buy your \"" + seller.itemname + "\", for:", seller.platinum, "platinum :)" )
+    print("/w", seller.username, "Hi! I want to sell \"" + seller.itemname + "\" to YOU, for:", seller.platinum, "platinum :)" )
     print("\n")
-    # TODO: return just a price, others go away.
 
 # Returns the order of the lowest price for Sellers on the market
-def lowestSeller(orders):
+def lowestSeller(orders, itemName):
     lowest = 9999999
     order = {}
     for o in orders:
@@ -28,10 +30,11 @@ def lowestSeller(orders):
             ):
             lowest = o["platinum"]
             order = o
-    return order
+    seller = offer.Offer(order["user"]["ingame_name"], str(order["user"]["id"]), itemName.replace("_", " ").title(), str(order["platinum"]))
+    return seller
 
 # Returns the order of the highest price for Buyers on the market
-def highestBuyer(orders):
+def highestBuyer(orders, itemName):
     highest = 0
     order = {}
     for o in orders:
@@ -43,4 +46,5 @@ def highestBuyer(orders):
             ):
             highest = o["platinum"]
             order = o
-    return order
+    buyer = offer.Offer(order["user"]["ingame_name"], str(order["user"]["id"]), itemName.replace("_", " ").title(), str(order["platinum"]))
+    return buyer

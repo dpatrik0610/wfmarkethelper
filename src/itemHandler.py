@@ -19,3 +19,16 @@ def getItemId(itemList, itemUrl):
 def importItems():
     itemList = list(jsonHandler.getDataFromJson("./jsonData/items.json").get("payload").get("items"))
     return itemList
+
+def formatName(itemName):
+    itemName = itemName.strip()
+    replaceables = {
+        "neu": "neuroptics",
+        "sys": "systems",
+        "ch" : "chassis",
+        "bp" : "blueprint",
+        " "  : "_"
+    }
+    for i, j in replaceables.items():
+        itemName = itemName.replace(i, j)
+    return itemName
