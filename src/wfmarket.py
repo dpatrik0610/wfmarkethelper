@@ -1,6 +1,6 @@
 import requests
 import jsonHandler
-
+import sys
 def baseURL():
     return "https://api.warframe.market/v1/"
 
@@ -18,6 +18,9 @@ def constructURL(path, item, path2, headers, parameters):
 def getItemOrders(itemName):
     url = constructURL("items", itemName, "orders", {'accept' : 'application.json', 'Platform': 'pc'}, {})
     req = getRequest(url)
+    if len(req.history) != 0:
+        print(req.history)
+        sys.exit(404)
     res = getBodyJSON(req)
     # TODO: Wrong item name handler.
     return res
@@ -27,7 +30,7 @@ def getItemList():
     myRequest = getRequest(constructURL("items", "", "", {'accept' : 'application.json', 'Platform': 'pc'}, {}))
     if getStatusCode(myRequest) != 200:
         print(myRequest.status_code)
-        exit(404)
+        sys.exit(404)
     else:
         itemList = list(jsonHandler.getDataFromRequest(myRequest.text).get("payload").get("items"))
     return itemList

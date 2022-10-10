@@ -16,8 +16,6 @@ def getDataFromJsonFile(fileName):
     parsedJson = json.loads(raw)
     return parsedJson
 
-def JsonToStr(old):
-    return str(old).replace('\'', '\"').replace("True", "true").replace("False", "false").replace("None", "null")
 
 # Riven's attributes
 #def getAttrAt(pureData, i, attributeName):

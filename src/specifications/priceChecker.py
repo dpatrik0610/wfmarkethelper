@@ -23,7 +23,7 @@ def lowestSeller(orders, itemName):
     order = {}
     for o in orders:
         if(         ( o["order_type"] == "sell")
-                and ( bool(o["visible"]) ) 
+                and ( o["visible"] ) 
                 and ( o["region"] == "en" ) 
                 and ( o["user"]["status"] == "ingame" )
                 and ( int(o["platinum"]) < lowest )

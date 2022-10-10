@@ -1,4 +1,3 @@
-from asyncore import write
 import itemHandler
 import jsonHandler
 import wfmarket
@@ -13,11 +12,7 @@ class Main():
     def main():
         # --- TESTING ---
         # JsonHandler, wfmarket, itemhandler
-        #print("High noon's ID: ", itemHandler.getItemId(wfmarket.getItemList(), "high_noon"))
-        itemName = ""
-        while itemName != "exit":
-            print("Please give an item: ")
-            itemName = input()
+        while (itemName := input("Please give an item: ")) != "exit":
             priceChecker.getItemPrice(itemName)
 
     if __name__ == "__main__":
