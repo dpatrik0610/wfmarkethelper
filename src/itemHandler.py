@@ -38,7 +38,7 @@ def formatName(itemName):
         itemName = itemName.replace(i, j)
 
     if len(itemName.split("_")) >= 2: itemName = replacePrimeName(itemName.split("_"))
-    print(itemName)
+    #print(itemName)
     return itemName
 
 # If you type a warframe or any item's name it replaces with its own name + prime
