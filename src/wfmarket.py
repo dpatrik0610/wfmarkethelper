@@ -19,8 +19,8 @@ def getItemOrders(itemName):
     url = constructURL("items", itemName, "orders", {'accept' : 'application.json', 'Platform': 'pc'}, {})
     req = getRequest(url)
     if len(req.history) != 0:
-        print(req.history)
-        sys.exit(404)
+        #print(req.history)
+        return None
     res = getBodyJSON(req)
     # TODO: Wrong item name handler.
     return res

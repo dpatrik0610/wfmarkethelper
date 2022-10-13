@@ -10,10 +10,9 @@ class Main():
         file.close()
 
     def main():
-        # --- TESTING ---
-        # JsonHandler, wfmarket, itemhandler
         while (itemName := input("Please give an item: ")) != "exit":
             priceChecker.getItemPrice(itemName)
 
+        #print(itemHandler.getAllItems())
     if __name__ == "__main__":
         main()

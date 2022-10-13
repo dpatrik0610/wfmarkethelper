@@ -1,6 +1,5 @@
 class Offer():
-    def __init__(self, username, userID, itemname, platinum):
+    def __init__(self, username, userID, platinum):
         self.username = username
         self.userID = userID
-        self.itemname = itemname
         self.platinum = platinum
